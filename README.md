@@ -1,2 +1,2 @@
 # abapgitbug_wdyn_otr
-abapGit bug WDYN OTR "invalid alias"?
+Test data to reproduce https://github.com/abapGit/abapGit/issues/5232 (WDYN OTR "invalid alias")
